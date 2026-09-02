@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
+    "seoDescription": "Find trusted event planners, wedding planners and coordinators across Australia. Full planning, partial planning or on-the-day coordination. Free to enquire.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T13:09:07.698Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T13:09:07.698Z",
+    "createdBy": "alper"
+  }
+]
