@@ -15,5 +15,21 @@
     "createdAt": "2026-09-02T13:09:07.698Z",
     "createdBy": "alper",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Plan Your Event",
+    "seoDescription": "Your event planning enquiry has been received. A planner will be in touch within 24–48 hours.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-02T13:10:14.768Z",
+    "updatedBy": "alper",
+    "createdAt": "2026-09-02T13:10:14.768Z",
+    "createdBy": "alper"
   }
 ]
