@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-09-02T13:09:34.920Z",
-    "updatedBy": "alper",
+    "updatedAt": "2026-09-14T04:54:59.001Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-02T13:09:07.698Z",
     "createdBy": "alper",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -36,7 +36,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/home1",
+    "path": "/",
     "type": "page",
     "title": "Home1",
     "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
@@ -44,10 +44,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-09-14T04:54:10.727Z",
+    "status": "published",
+    "updatedAt": "2026-09-14T04:54:59.001Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-14T04:54:10.727Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
