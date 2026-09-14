@@ -33,5 +33,21 @@
     "createdBy": "alper",
     "noindex": true,
     "isHome": false
+  },
+  {
+    "id": "pg-3",
+    "path": "/home1",
+    "type": "page",
+    "title": "Home1",
+    "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
+    "seoDescription": "Tell us what you are planning and we will pass your enquiry to event planners, wedding planners and party planners who cover your area. Free to enquire, Australia-wide.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-14T04:54:10.727Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-14T04:54:10.727Z",
+    "createdBy": "joshua"
   }
 ]
