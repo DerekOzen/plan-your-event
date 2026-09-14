@@ -50,5 +50,21 @@
     "createdAt": "2026-09-14T04:54:10.727Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-4",
+    "path": "/about",
+    "type": "page",
+    "title": "About",
+    "seoTitle": "About Plan Your Event | Find Event Planners Across Australia",
+    "seoDescription": "Plan Your Event connects people planning weddings, parties and celebrations with professional event planners and coordinators around Australia. Here is how it works.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-09-14T06:13:41.895Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-14T06:13:41.895Z",
+    "createdBy": "joshua"
   }
 ]
