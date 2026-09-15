@@ -1,0 +1,315 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mu29gtr5-7t98",
+      "at": "2026-09-15T05:58:34.145Z",
+      "count": 76,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-C1B5B175"
+        },
+        {
+          "path": "/event-planners",
+          "newRecordId": "SCHEMA-CA48EB96"
+        },
+        {
+          "path": "/wedding-planners",
+          "newRecordId": "SCHEMA-83D72184"
+        },
+        {
+          "path": "/party-planners",
+          "newRecordId": "SCHEMA-A1AE8A0D"
+        },
+        {
+          "path": "/event-coordinators",
+          "newRecordId": "SCHEMA-50E3BEF0"
+        },
+        {
+          "path": "/wedding-coordinators",
+          "newRecordId": "SCHEMA-7B36799A"
+        },
+        {
+          "path": "/event-planning",
+          "newRecordId": "SCHEMA-ED87ADE4"
+        },
+        {
+          "path": "/wedding-planning",
+          "newRecordId": "SCHEMA-82270ACB"
+        },
+        {
+          "path": "/party-planning",
+          "newRecordId": "SCHEMA-FC87A065"
+        },
+        {
+          "path": "/on-the-day-coordination",
+          "newRecordId": "SCHEMA-E7151D10"
+        },
+        {
+          "path": "/venue-sourcing",
+          "newRecordId": "SCHEMA-F9900D10"
+        },
+        {
+          "path": "/planning-services",
+          "newRecordId": "SCHEMA-93A42336"
+        },
+        {
+          "path": "/events",
+          "newRecordId": "SCHEMA-DFB152A1"
+        },
+        {
+          "path": "/events/weddings",
+          "newRecordId": "SCHEMA-683CDF7B"
+        },
+        {
+          "path": "/events/corporate",
+          "newRecordId": "SCHEMA-6E31BAD1"
+        },
+        {
+          "path": "/events/engagement-parties",
+          "newRecordId": "SCHEMA-447C72A6"
+        },
+        {
+          "path": "/events/proposals",
+          "newRecordId": "SCHEMA-1B163DA4"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-A78C747C"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-522514D7"
+        },
+        {
+          "path": "/locations/vic",
+          "newRecordId": "SCHEMA-B43C06B4"
+        },
+        {
+          "path": "/locations/qld",
+          "newRecordId": "SCHEMA-C60F7C17"
+        },
+        {
+          "path": "/locations/wa",
+          "newRecordId": "SCHEMA-B02A99D4"
+        },
+        {
+          "path": "/locations/nsw/event-planners-bankstown",
+          "newRecordId": "SCHEMA-5E6ACC37"
+        },
+        {
+          "path": "/locations/nsw/event-planners-blacktown",
+          "newRecordId": "SCHEMA-8B8438D5"
+        },
+        {
+          "path": "/locations/nsw/event-planners-blue-mountains",
+          "newRecordId": "SCHEMA-EE041334"
+        },
+        {
+          "path": "/locations/nsw/event-planners-campbelltown",
+          "newRecordId": "SCHEMA-69950938"
+        },
+        {
+          "path": "/locations/nsw/event-planners-central-coast",
+          "newRecordId": "SCHEMA-9F744E60"
+        },
+        {
+          "path": "/locations/nsw/event-planners-fairfield",
+          "newRecordId": "SCHEMA-ADA176C3"
+        },
+        {
+          "path": "/locations/nsw/event-planners-hills-district",
+          "newRecordId": "SCHEMA-251E082F"
+        },
+        {
+          "path": "/locations/nsw/event-planners-hornsby",
+          "newRecordId": "SCHEMA-21C4360A"
+        },
+        {
+          "path": "/locations/nsw/event-planners-inner-west",
+          "newRecordId": "SCHEMA-EEA92532"
+        },
+        {
+          "path": "/locations/nsw/event-planners-liverpool",
+          "newRecordId": "SCHEMA-13C03A89"
+        },
+        {
+          "path": "/locations/nsw/event-planners-newcastle",
+          "newRecordId": "SCHEMA-F217C0E7"
+        },
+        {
+          "path": "/locations/nsw/event-planners-northern-beaches",
+          "newRecordId": "SCHEMA-8E0BD0E2"
+        },
+        {
+          "path": "/locations/nsw/event-planners-north-sydney",
+          "newRecordId": "SCHEMA-40FFDB15"
+        },
+        {
+          "path": "/locations/nsw/event-planners-parramatta",
+          "newRecordId": "SCHEMA-912B1DE9"
+        },
+        {
+          "path": "/locations/nsw/event-planners-penrith",
+          "newRecordId": "SCHEMA-0A15BCF4"
+        },
+        {
+          "path": "/locations/nsw/event-planners-randwick",
+          "newRecordId": "SCHEMA-C956C4B4"
+        },
+        {
+          "path": "/locations/nsw/event-planners-ryde",
+          "newRecordId": "SCHEMA-BD02699F"
+        },
+        {
+          "path": "/locations/nsw/event-planners-strathfield",
+          "newRecordId": "SCHEMA-663411FD"
+        },
+        {
+          "path": "/locations/nsw/event-planners-sutherland-shire",
+          "newRecordId": "SCHEMA-DCC2187B"
+        },
+        {
+          "path": "/locations/nsw/event-planners-sydney",
+          "newRecordId": "SCHEMA-7C598D37"
+        },
+        {
+          "path": "/locations/nsw/event-planners-wollongong",
+          "newRecordId": "SCHEMA-55D4A66F"
+        },
+        {
+          "path": "/locations/vic/event-planners-brimbank",
+          "newRecordId": "SCHEMA-783A005F"
+        },
+        {
+          "path": "/locations/vic/event-planners-casey",
+          "newRecordId": "SCHEMA-54A78371"
+        },
+        {
+          "path": "/locations/vic/event-planners-geelong",
+          "newRecordId": "SCHEMA-A011B024"
+        },
+        {
+          "path": "/locations/vic/event-planners-greater-dandenong",
+          "newRecordId": "SCHEMA-79E7F78A"
+        },
+        {
+          "path": "/locations/vic/event-planners-hume",
+          "newRecordId": "SCHEMA-B7A2DFDD"
+        },
+        {
+          "path": "/locations/vic/event-planners-melbourne",
+          "newRecordId": "SCHEMA-741D3025"
+        },
+        {
+          "path": "/locations/vic/event-planners-monash",
+          "newRecordId": "SCHEMA-9F983011"
+        },
+        {
+          "path": "/locations/vic/event-planners-mornington-peninsula",
+          "newRecordId": "SCHEMA-569F6704"
+        },
+        {
+          "path": "/locations/vic/event-planners-whittlesea",
+          "newRecordId": "SCHEMA-74732002"
+        },
+        {
+          "path": "/locations/vic/event-planners-wyndham",
+          "newRecordId": "SCHEMA-B6AA7D52"
+        },
+        {
+          "path": "/locations/qld/event-planners-brisbane",
+          "newRecordId": "SCHEMA-8D2CF671"
+        },
+        {
+          "path": "/locations/qld/event-planners-gold-coast",
+          "newRecordId": "SCHEMA-65A6B7F6"
+        },
+        {
+          "path": "/locations/qld/event-planners-ipswich",
+          "newRecordId": "SCHEMA-F77EA2FB"
+        },
+        {
+          "path": "/locations/qld/event-planners-logan",
+          "newRecordId": "SCHEMA-F30E358A"
+        },
+        {
+          "path": "/locations/qld/event-planners-moreton-bay",
+          "newRecordId": "SCHEMA-8137A697"
+        },
+        {
+          "path": "/locations/qld/event-planners-redlands",
+          "newRecordId": "SCHEMA-B81DB58F"
+        },
+        {
+          "path": "/locations/qld/event-planners-sunshine-coast",
+          "newRecordId": "SCHEMA-F51ED23F"
+        },
+        {
+          "path": "/locations/qld/event-planners-toowoomba",
+          "newRecordId": "SCHEMA-A4AED8BA"
+        },
+        {
+          "path": "/locations/wa/event-planners-canning",
+          "newRecordId": "SCHEMA-5C060C37"
+        },
+        {
+          "path": "/locations/wa/event-planners-cockburn",
+          "newRecordId": "SCHEMA-CABC2984"
+        },
+        {
+          "path": "/locations/wa/event-planners-joondalup",
+          "newRecordId": "SCHEMA-8311452E"
+        },
+        {
+          "path": "/locations/wa/event-planners-mandurah",
+          "newRecordId": "SCHEMA-EC86B123"
+        },
+        {
+          "path": "/locations/wa/event-planners-perth",
+          "newRecordId": "SCHEMA-8166F08A"
+        },
+        {
+          "path": "/locations/wa/event-planners-rockingham",
+          "newRecordId": "SCHEMA-C62DA0D5"
+        },
+        {
+          "path": "/locations/wa/event-planners-stirling",
+          "newRecordId": "SCHEMA-7180E97B"
+        },
+        {
+          "path": "/locations/wa/event-planners-swan",
+          "newRecordId": "SCHEMA-8ACFD271"
+        },
+        {
+          "path": "/locations/wa/event-planners-wanneroo",
+          "newRecordId": "SCHEMA-64E8EB51"
+        },
+        {
+          "path": "/planning-advice",
+          "newRecordId": "SCHEMA-2682436B"
+        },
+        {
+          "path": "/planning-advice/planner-cost-guide",
+          "newRecordId": "SCHEMA-11F92188"
+        },
+        {
+          "path": "/planning-advice/planner-vs-coordinator",
+          "newRecordId": "SCHEMA-B8D79CA9"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-01AD7940"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-CDCA8451"
+        },
+        {
+          "path": "/get-quotes",
+          "newRecordId": "SCHEMA-32D4C3A6"
+        }
+      ]
+    }
+  ]
+}
