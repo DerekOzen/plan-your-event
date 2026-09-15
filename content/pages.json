@@ -1312,5 +1312,21 @@
     "createdAt": "2026-09-15T03:43:33.332Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-86",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "A map of Australia with the markets Plan Your Event covers marked on it, the four priority states shaded and the capital cities picked out",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-09-15T04:12:07.985Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-15T04:12:07.985Z",
+    "createdBy": "joshua"
   }
 ]
