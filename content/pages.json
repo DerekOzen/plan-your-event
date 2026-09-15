@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-3",
-    "path": "/home",
+    "path": "/home123",
     "type": "page",
     "title": "Home",
     "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
@@ -9,8 +9,8 @@
     "layout": "mockup",
     "headerPartId": "header-6",
     "footerPartId": "footer-4",
-    "status": "draft",
-    "updatedAt": "2026-09-15T04:12:40.801Z",
+    "status": "published",
+    "updatedAt": "2026-09-15T04:14:22.912Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-14T04:54:10.727Z",
     "createdBy": "joshua",
