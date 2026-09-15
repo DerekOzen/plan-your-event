@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-3",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Event Planners & Wedding Planners Australia | Plan Your Event",
@@ -10,11 +10,11 @@
     "headerPartId": "header-6",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-14T07:57:33.769Z",
+    "updatedAt": "2026-09-15T04:02:04.914Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-14T04:54:10.727Z",
     "createdBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-5",
@@ -1298,7 +1298,7 @@
   },
   {
     "id": "pg-85",
-    "path": "/home-test",
+    "path": "/",
     "type": "page",
     "title": "Home Test",
     "seoTitle": "A map of Australia with the markets Plan Your Event covers marked on it, the four priority states shaded and the capital cities picked out",
@@ -1307,9 +1307,10 @@
     "headerPartId": "header-6",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-15T03:54:04.010Z",
+    "updatedAt": "2026-09-15T04:02:04.914Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-15T03:43:33.332Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
