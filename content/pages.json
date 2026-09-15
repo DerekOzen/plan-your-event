@@ -1329,5 +1329,21 @@
     "createdAt": "2026-09-15T04:12:07.985Z",
     "createdBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-87",
+    "path": "/get-quote1",
+    "type": "page",
+    "title": "Get Quote1",
+    "seoTitle": "Get Event Planning Quotes | Plan Your Event",
+    "seoDescription": "Send one enquiry to event planners and coordinators who cover your area. Free to enquire, no obligation to book, and you pay your planner directly.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-09-15T07:29:31.206Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-15T07:29:31.206Z",
+    "createdBy": "joshua"
   }
 ]
