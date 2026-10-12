@@ -1378,9 +1378,11 @@
     "status": "published",
     "createdAt": "2026-09-14T07:18:03.785Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-21T01:32:24.094Z",
-    "updatedBy": "joshua",
-    "noindex": true
+    "updatedAt": "2026-10-12T05:27:37.594Z",
+    "updatedBy": "sebastian",
+    "noindex": true,
+    "featuredImage": "/uploads/featured-thank-you-plan-your-event-t8vzs.jpg",
+    "featuredImageAlt": "Thank you. That is off your plate."
   },
   {
     "id": "pg-81",
